@@ -1,4 +1,4 @@
-# java_bealecipher
+# bealecipher
 Starting point for finding the mystery of the Thomas Beale Cipher
 
 ### ***About***
